@@ -13,6 +13,7 @@ public class HierarchialInheritance {
 		System.out.println("Salary is " + p.getSalary());
 		p.calculateSalary();
 		System.out.println("Salary is " + p.getSalary());
+		System.out.println("Salary is " + p.getSalary());
 
 		ContractEmployee c = new ContractEmployee();
 		c.setEmployeeId(23);
