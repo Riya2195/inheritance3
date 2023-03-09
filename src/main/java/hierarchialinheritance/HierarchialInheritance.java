@@ -28,6 +28,7 @@ public class HierarchialInheritance {
 		System.out.println("Salary is " + c.getSalary());
 		c.calaculateSalary();
 		System.out.println("Salary is " + c.getSalary());
+		System.out.println("Salary is " + c.getSalary());
 
 	}
 
